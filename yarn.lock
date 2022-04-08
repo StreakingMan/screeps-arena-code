@@ -163,9 +163,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/screeps-arena@screepers/typed-screeps-arena":
+"@types/screeps-arena@screepers/typed-screeps-arena#develop":
   version "0.0.1"
-  resolved "https://codeload.github.com/screepers/typed-screeps-arena/tar.gz/516dbdbde2c0f7f3bf267b8f113e896f16131090"
+  resolved "https://codeload.github.com/screepers/typed-screeps-arena/tar.gz/b8b41d409ac912815974e9a09b70f189d2ba53a9"
 
 "@types/sinon-chai@^3.2.0":
   version "3.2.8"
