@@ -1,5 +1,5 @@
 {
-  "name": "screeps-arena-typescript-starter",
+  "name": "screeps-arena-code",
   "version": "3.0.0",
   "description": "",
   "main": "index.js",
@@ -18,16 +18,8 @@
     "watch-season": "rollup -cw --environment DEST:season",
     "watch-sim": "rollup -cw --environment DEST:sim"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/screepers/screeps-arena-typescript-starter.git"
-  },
   "author": "",
   "license": "Unlicense",
-  "bugs": {
-    "url": "https://github.com/screepers/screeps-arena-typescript-starter/issues"
-  },
-  "homepage": "https://github.com/screepers/screeps-arena-typescript-starter#readme",
   "engines": {
     "node": "10.x || 12.x || 16.x"
   },
